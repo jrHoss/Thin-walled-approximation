@@ -1,0 +1,213 @@
+19.52.34| First text for the logfile!
+19.52.34| instance 1 created.1 instance(s) found
+19.52.34| instance 2 created.2 instance(s) found
+19.52.34| instance 3 created.3 instance(s) found
+19.52.34| instance 4 created.4 instance(s) found
+19.52.34| instance 5 created.5 instance(s) found
+19.52.34| instance 6 created.6 instance(s) found
+19.52.34| instance 7 created.7 instance(s) found
+19.52.34| instance 8 created.8 instance(s) found
+19.52.34| instance 9 created.9 instance(s) found
+19.52.34| instance 10 created.10 instance(s) found
+19.52.34| instance 11 created.11 instance(s) found
+19.52.34| instance 12 created.12 instance(s) found
+19.52.34| instance 13 created.13 instance(s) found
+19.52.34| instance 14 created.14 instance(s) found
+19.52.34| instance 15 created.15 instance(s) found
+19.52.34| instance 16 created.16 instance(s) found
+19.52.34| instance 17 created.17 instance(s) found
+19.52.34| instance 18 created.18 instance(s) found
+19.52.34| instance 19 created.19 instance(s) found
+19.52.34| instance 20 created.20 instance(s) found
+19.52.34| instance 21 created.21 instance(s) found
+19.52.34| instance 22 created.22 instance(s) found
+19.52.34| instance 23 created.23 instance(s) found
+19.52.34| instance 24 created.24 instance(s) found
+19.52.34| instance 25 created.25 instance(s) found
+19.52.34| instance 26 created.26 instance(s) found
+19.52.34| instance 27 created.27 instance(s) found
+19.52.34| instance 28 created.28 instance(s) found
+19.52.34| instance 29 created.29 instance(s) found
+19.52.34| instance 30 created.30 instance(s) found
+19.52.34| instance 31 created.31 instance(s) found
+19.52.34| instance 32 created.32 instance(s) found
+19.52.34| instance 33 created.33 instance(s) found
+19.52.34| instance 34 created.34 instance(s) found
+19.52.34| instance 35 created.35 instance(s) found
+19.52.34| instance 36 created.36 instance(s) found
+19.52.34| instance 37 created.37 instance(s) found
+19.52.34| instance 38 created.38 instance(s) found
+19.52.34| instance 39 created.39 instance(s) found
+19.52.34| instance 40 created.40 instance(s) found
+19.52.34| instance 41 created.41 instance(s) found
+19.52.34| instance 42 created.42 instance(s) found
+19.52.34| instance 43 created.43 instance(s) found
+19.52.34| instance 44 created.44 instance(s) found
+19.52.34| instance 45 created.45 instance(s) found
+19.52.34| instance 46 created.46 instance(s) found
+19.52.34| instance 47 created.47 instance(s) found
+19.52.34| instance 48 created.48 instance(s) found
+19.52.34| instance 49 created.49 instance(s) found
+19.52.34| instance 50 created.50 instance(s) found
+19.52.34| instance 51 created.51 instance(s) found
+19.52.34| instance 52 created.52 instance(s) found
+19.52.34| instance 53 created.53 instance(s) found
+19.52.34| instance 54 created.54 instance(s) found
+19.52.34| instance 55 created.55 instance(s) found
+19.52.34| instance 56 created.56 instance(s) found
+19.52.34| instance 57 created.57 instance(s) found
+19.52.34| instance 58 created.58 instance(s) found
+19.52.34| instance 59 created.59 instance(s) found
+19.52.34| instance 60 created.60 instance(s) found
+19.52.34| instance 61 created.61 instance(s) found
+19.52.34| instance 62 created.62 instance(s) found
+19.52.34| instance 63 created.63 instance(s) found
+19.52.34| instance 64 created.64 instance(s) found
+19.52.34| instance 65 created.65 instance(s) found
+19.52.34| instance 66 created.66 instance(s) found
+19.52.34| instance 67 created.67 instance(s) found
+19.52.34| instance 68 created.68 instance(s) found
+19.52.34| instance 69 created.69 instance(s) found
+19.52.34| instance 70 created.70 instance(s) found
+19.52.34| instance 71 created.71 instance(s) found
+19.52.34| instance 72 created.72 instance(s) found
+19.52.34| instance 73 created.73 instance(s) found
+19.52.34| instance 74 created.74 instance(s) found
+19.52.34| instance 75 created.75 instance(s) found
+19.52.34| instance 76 created.76 instance(s) found
+19.52.34| instance 77 created.77 instance(s) found
+19.52.34| instance 78 created.78 instance(s) found
+19.52.34| instance 79 created.79 instance(s) found
+19.52.34| instance 80 created.80 instance(s) found
+19.52.34| instance 81 created.81 instance(s) found
+19.52.34| instance 82 created.82 instance(s) found
+19.52.34| instance 83 created.83 instance(s) found
+19.52.34| instance 84 created.84 instance(s) found
+19.52.34| instance 85 created.85 instance(s) found
+19.52.34| instance 86 created.86 instance(s) found
+19.52.34| instance 87 created.87 instance(s) found
+19.52.34| instance 88 created.88 instance(s) found
+19.52.34| instance 89 created.89 instance(s) found
+19.52.34| instance 90 created.90 instance(s) found
+19.52.34| instance 91 created.91 instance(s) found
+19.52.34| instance 92 created.92 instance(s) found
+19.52.34| instance 93 created.93 instance(s) found
+19.52.34| instance 94 created.94 instance(s) found
+19.52.34| instance 95 created.95 instance(s) found
+19.52.34| instance 96 created.96 instance(s) found
+19.52.34| instance 97 created.97 instance(s) found
+19.52.34| instance 98 created.98 instance(s) found
+19.52.34| instance 99 created.99 instance(s) found
+19.52.34| instance 100 created.100 instance(s) found
+19.52.34| ---Begin Profile Output
+19.52.34| ---Profile Name: Combined Section
+19.52.34| Area.................:           A:   5578.371
+19.52.34| Static moment........:      Sx,Sy.: 897235.016,    -0.000
+19.52.34| 2nd moment of Area...: Ixx,Iyy,Ixy: 166533350.469,4025317.742,    -0.000
+19.52.34| Center of Gravity....:       Cx,Cy:     -0.000,   160.842
+19.52.34| Shifed SMOA in CG CS : Ixx,Iyy,Ixy: 22220481.568,4025317.742,    -0.000
+19.52.34| SMOA principal value.:    Ieta,Ixi: 22220481.568,22220481.568
+19.52.34| rotation angle.......:      pistar:     90.000°
+19.52.34| ---End Profile Output
+19.52.34|  Maximum Deflection in mm is -88.99382798073852
+19.52.35| Profile.view(): pylab imported!
+21.23.55| delete instance 1.
+21.23.55| delete instance 100.
+21.23.55| delete instance 12.
+21.23.55| delete instance 99.
+21.23.55| delete instance 52.
+21.23.55| delete instance 98.
+21.23.55| delete instance 51.
+21.23.55| delete instance 97.
+21.23.55| delete instance 50.
+21.23.55| delete instance 96.
+21.23.55| delete instance 49.
+21.23.55| delete instance 95.
+21.23.55| delete instance 48.
+21.23.55| delete instance 94.
+21.23.55| delete instance 47.
+21.23.55| delete instance 93.
+21.23.55| delete instance 46.
+21.23.55| delete instance 92.
+21.23.55| delete instance 45.
+21.23.55| delete instance 91.
+21.23.55| delete instance 44.
+21.23.55| delete instance 90.
+21.23.55| delete instance 43.
+21.23.55| delete instance 89.
+21.23.55| delete instance 42.
+21.23.55| delete instance 88.
+21.23.55| delete instance 41.
+21.23.55| delete instance 87.
+21.23.55| delete instance 40.
+21.23.55| delete instance 86.
+21.23.55| delete instance 39.
+21.23.55| delete instance 85.
+21.23.55| delete instance 38.
+21.23.55| delete instance 84.
+21.23.55| delete instance 37.
+21.23.55| delete instance 83.
+21.23.55| delete instance 36.
+21.23.55| delete instance 82.
+21.23.55| delete instance 35.
+21.23.55| delete instance 81.
+21.23.55| delete instance 34.
+21.23.55| delete instance 33.
+21.23.55| delete instance 80.
+21.23.55| delete instance 11.
+21.23.55| delete instance 79.
+21.23.55| delete instance 32.
+21.23.55| delete instance 78.
+21.23.55| delete instance 31.
+21.23.55| delete instance 77.
+21.23.55| delete instance 30.
+21.23.55| delete instance 76.
+21.23.55| delete instance 29.
+21.23.55| delete instance 75.
+21.23.55| delete instance 28.
+21.23.55| delete instance 74.
+21.23.55| delete instance 27.
+21.23.55| delete instance 73.
+21.23.55| delete instance 26.
+21.23.55| delete instance 72.
+21.23.55| delete instance 25.
+21.23.55| delete instance 71.
+21.23.55| delete instance 24.
+21.23.55| delete instance 70.
+21.23.55| delete instance 23.
+21.23.55| delete instance 69.
+21.23.55| delete instance 22.
+21.23.55| delete instance 68.
+21.23.55| delete instance 21.
+21.23.55| delete instance 67.
+21.23.55| delete instance 20.
+21.23.55| delete instance 66.
+21.23.55| delete instance 19.
+21.23.55| delete instance 65.
+21.23.55| delete instance 18.
+21.23.55| delete instance 64.
+21.23.55| delete instance 17.
+21.23.55| delete instance 63.
+21.23.55| delete instance 16.
+21.23.55| delete instance 62.
+21.23.55| delete instance 15.
+21.23.55| delete instance 61.
+21.23.55| delete instance 14.
+21.23.55| delete instance 13.
+21.23.55| delete instance 60.
+21.23.55| delete instance 10.
+21.23.55| delete instance 59.
+21.23.55| delete instance 9.
+21.23.55| delete instance 58.
+21.23.55| delete instance 8.
+21.23.55| delete instance 57.
+21.23.55| delete instance 7.
+21.23.55| delete instance 56.
+21.23.55| delete instance 6.
+21.23.55| delete instance 55.
+21.23.55| delete instance 5.
+21.23.55| delete instance 54.
+21.23.55| delete instance 4.
+21.23.55| delete instance 53.
+21.23.55| delete instance 3.
+21.23.55| delete instance 2.
